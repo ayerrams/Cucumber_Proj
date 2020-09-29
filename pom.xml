@@ -98,7 +98,7 @@
           <version>2.22.1</version>
           <configuration>
             <includes>
-              <exclude>**/*Test_Runner.java</exclude>
+              <exclude>**/*Test_runner.java</exclude>
             </includes>
           </configuration>
         </plugin>
